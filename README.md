@@ -1,6 +1,6 @@
 # delaweb-test
 
-### Приложение на Vue.js с использованием Vuex, Vue-route, Vuetify, json-server.
+### Приложение на Vue.js с использованием Vuex, Vue-router, Vuetify, json-server.
 
 ### На данный момент реализовано следующее:
 
